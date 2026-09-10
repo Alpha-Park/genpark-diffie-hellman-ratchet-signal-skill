@@ -1,0 +1,14 @@
+{
+  "name": "genpark-diffie-hellman-ratchet-signal-skill",
+  "version": "1.0.0",
+  "description": "Signal double ratchet state machine advancing symmetric KDF chains and ephemeral Diffie-Hellman keys for forward secrecy.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "double-ratchet",
+    "signal-protocol",
+    "forward-secrecy",
+    "post-compromise-security",
+    "cryptography"
+  ]
+}
